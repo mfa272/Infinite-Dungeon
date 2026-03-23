@@ -1,7 +1,7 @@
 # Infinite Dungeon
 
-Infinite Dungeon is a roguelike game where the player has to defeat monsters with increasingly higher statistics across floors. Monsters drop equipment that the player needs to go deeper and loave sof bread to recover health. 
-The project is built with Swing in Java.
+Infinite Dungeon is a roguelike game in which the player has to defeat monsters with increasingly higher strength across procedurally generated floors. Monsters drop equipment that the player needs in order to go deeper into the dungeon and loaves of bread that let the player recover health. 
+The project is built with Swing in Java and feature a custom engine as its core.
 
 ## Demo video
 
